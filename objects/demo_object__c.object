@@ -163,6 +163,15 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>new_mail__c</fullName>
+        <externalId>false</externalId>
+        <label>new mail</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>First_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Field</label>
