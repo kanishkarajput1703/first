@@ -173,7 +173,7 @@
         <unique>false</unique>
     </fields>
  <fields>
-        <fullName>First_Field__c</fullName>
+        <fullName>Second_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Field</label>
         <length>20</length>
